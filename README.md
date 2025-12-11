@@ -1,6 +1,6 @@
 # APRENDENDO_VERSIONAMENTO
-Primeiro repositório versionado
+Primeiro **repositório** versionado
 
 Aprendizado orientado por meio do Curso em Vídeo 
 
-Linha adicionada diretamente no site
+*Linha adicionada diretamente no site*
